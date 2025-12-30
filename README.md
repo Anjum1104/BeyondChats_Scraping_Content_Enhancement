@@ -2,8 +2,8 @@
 
 This project is a full-stack Node.js application designed to scrape articles from BeyondChats, store them in a local SQLite database, and enhance their content using an LLM (Large Language Model). It features a polished, dark-mode frontend for viewing the articles.
 
-[> LIVE Frontend Preview](https://beyondchats-articles.onrender.com) 
-*(Note: Replace with actual screenshot if available)*
+[LIVE Frontend Preview](https://beyondchats-articles.onrender.com) 
+
 
 ## Features
 
