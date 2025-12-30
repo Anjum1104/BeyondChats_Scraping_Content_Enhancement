@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: beyondchats-articles
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: LLM_API_KEY
+        sync: false
+    autoDeploy: false
